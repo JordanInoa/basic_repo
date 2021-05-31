@@ -1,0 +1,11 @@
+h1{
+    color: aqua;
+    background-color: black;
+}
+
+div{
+    width: 1200px;
+    height: 1200px;
+    color: blueviolet;
+    background-color: coral;
+}
